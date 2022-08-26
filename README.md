@@ -29,7 +29,8 @@ A descriptive title and a heading tag.
 
 The visualization for the selected comparison (latitude vs. max temperature, latitude vs. humidity, latitude vs. cloudiness, or latitude vs. wind speed). The images that these pages display should be stored in the assets/images folder.
 
-![Fig1](https://user-images.githubusercontent.com/106934375/186811529-1185eeee-ea19-4b65-8850-a6cd59675ad4.png)
+![image](https://user-images.githubusercontent.com/106934375/186811943-7770e082-538a-4d3e-abbd-d91aef0f5106.png)
+
 
 
 A paragraph describing the visualization and its significance.
