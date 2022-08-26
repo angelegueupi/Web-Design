@@ -44,3 +44,21 @@ Uses a Bootstrap grid for the visualizations. This grid must contain two visuali
 A data page that displays a responsive table containing the data that the visualizations use, as follows:
 
 The table must be a Bootstrap table component.
+The data must come from either exporting or converting the CSV file to HTML. To do so, try using a tool that you already know: Pandas. Pandas has a to_html method that generates an HTML table from a Pandas DataFrame. To learn more, see pandas.DataFrame.to_html (Links to an external site.) in the official Pandas documentation.
+![image](https://user-images.githubusercontent.com/106934375/186812519-dcbea6ef-f266-4230-9e7c-e27321cf5f7f.png)
+
+
+At the top of every page, your website must have a navigation bar that does the following:
+
+Contains the name of the site on the left side of the navigation bar, allowing users to return to the landing page from any page.
+
+Contains a drop-down menu, named Plots, on the right side of the navigation bar that contains a link to each visualization page.
+
+Provides two more text links on the right side: Comparisons, which links to the comparisons page, and Data, which links to the data page.
+
+Is responsive (via media queries). Note that the navigation bar must resemble the one in the screenshots in the Navigation Bar section. In particular, notice the background color change.
+
+Your website must be deployed to GitHub Pages:
+
+As a result, the website must work at a live, publicly accessible URL. Save this URL for your later submission.
+
