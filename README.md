@@ -1,4 +1,4 @@
-# webchallenge
+# Web-Design-Challenge
 ![image](https://user-images.githubusercontent.com/106934375/186811732-24083c3a-5f32-4285-8de5-e75ffdac0fe0.png)
 
 Instructions
